@@ -1,14 +1,14 @@
-# 📊 Data Analytics Projects
+# 🚀 Welcome to my Data Analytics Portfolio!
 
-Este repositório apresenta projetos de dashboards desenvolvidos com foco em **análise de dados, geração de insights e suporte à tomada de decisão**.
+This repository is the central hub of my Data Analytics portfolio. Here you'll find projects focused on Business Intelligence, SQL, Python and Data Engineering.
 
-Os projetos demonstram habilidades em:
+## 📊 Featured Projects
+✔ Brazilian Tax Revenue Dashboard
 
-- Análise exploratória de dados
-- Definição de KPIs estratégicos
-- Storytelling com dados
-- Modelagem e organização de informações
-- Construção de dashboards analíticos
+✔ Healthcare Revenue Dashboard
 
----
+✔ Financial Operations Dashboard
 
+✔ SQL Portfolio
+
+✔ Python Analytics Portfolio
