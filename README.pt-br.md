@@ -10,6 +10,6 @@ Aqui você encontrará projetos focados em Business Intelligence, SQL, Python e 
 
 ✔ Dashboard de Análise Financeira Gerencial
 
-✔ Portfólio - SQL
+✔ Portifólio - SQL
 
-✔ Portfólio - Python
+✔ Portifólio - Python
