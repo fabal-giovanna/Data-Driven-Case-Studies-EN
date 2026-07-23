@@ -1,8 +1,6 @@
-🇺🇸  English | [🇧🇷 Português](README.pt-br.md)
+# 🚀 You're welcome to my Data Analytics Portfolio!
 
-# 🚀 Welcome to my Data Analytics Portfolio!
-
-This repository is the central hub of my Data Analytics portfolio. Here you'll find projects focused on Business Intelligence, SQL, Python and Data Engineering.
+This repository is the central hub of my Data Analytics portfolio, featuring real-world case studies and exploring hands-on projects, focused on Business Intelligence, SQL, Python, and Data Engineering
 
 ## 📊 Featured Projects
 ✔ Brazilian Tax Revenue Dashboard
@@ -11,6 +9,4 @@ This repository is the central hub of my Data Analytics portfolio. Here you'll f
 
 ✔ Financial Operations Dashboard
 
-✔ SQL Portfolio
 
-✔ Python Analytics Portfolio
