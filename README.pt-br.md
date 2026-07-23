@@ -1,4 +1,4 @@
-# 🚀 Bem-vindo ao meu Portifólio de Análise de Dados Data!
+# 🚀 Bem-vindo ao meu Portifólio de Análise de Dados!
 
 Este repositório é o hub central do meu portfólio de Análise de Dados. 
 Aqui você encontrará projetos focados em Business Intelligence, SQL, Python e Engenharia de Dados.
